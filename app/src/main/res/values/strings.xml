@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ArrayAdapter</string>
+    <string-array name="first_names">
+        <item>Michael</item>
+        <item>Elizabeth</item>
+        <item>Kristina</item>
+        <item>Stacy</item>
+        <item>Mitchell</item>
+        <item>Brenda</item>
+        <item>John</item>
+        <item>George</item>
+        <item>Frank</item>
+        <item>William</item>
+    </string-array>
+    <string-array name="second_names">
+        <item>Carter</item>
+        <item>Rodriguez</item>
+        <item>Brown</item>
+        <item>Mitchell</item>
+        <item>Adams</item>
+        <item>Cook</item>
+        <item>White</item>
+        <item>Smith</item>
+        <item>Lopez</item>
+        <item>Sanders</item>
+    </string-array>
+</resources>
